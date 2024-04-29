@@ -1,9 +1,5 @@
 # HackThebox-Kernel-Adventures-Part-1
-# Team Members:
-Venkata Sai Koppula (ID: 11692147)
-Abhishek Marpu (ID: 11652646)
-Shivanandha Reddy Vasudevula (ID: 11709232)
-Mohana Potluri (ID: 11726505)
+# Group-10 : Csce-5552
 
 # Introduction:
 This repository contains the materials and documentation for completing Kernel Adventures Part-1. The main objective of this project is to gain a deep understanding of kernel exploitation and its implications. Through this exercise, participants will interact with a vulnerable kernel module ('mysu.ko') and learn various aspects of system exploration, administration, file system manipulation, network operations, security auditing, ethical hacking, and penetration testing.
