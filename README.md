@@ -1,13 +1,14 @@
 # HackThebox-Kernel-Adventures-Part-1
-Team Members:
+# Team Members:
 Venkata Sai Koppula (ID: 11692147)
 Abhishek Marpu (ID: 11652646)
 Shivanandha Reddy Vasudevula (ID: 11709232)
 Mohana Potluri (ID: 11726505)
-Introduction:
+
+# Introduction:
 This repository contains the materials and documentation for completing Kernel Adventures Part-1. The main objective of this project is to gain a deep understanding of kernel exploitation and its implications. Through this exercise, participants will interact with a vulnerable kernel module ('mysu.ko') and learn various aspects of system exploration, administration, file system manipulation, network operations, security auditing, ethical hacking, and penetration testing.
 
-Contents:
+# Contents:
 exploit_program/: Contains the exploit program designed to take advantage of the vulnerabilities present in the vulnerable kernel module.
 vulnerable_kernel_module/: Contains the vulnerable kernel module ('mysu.ko') implementing a character device interface with 'dev_write' and 'dev_read' functions.
 README.md: This file, providing an overview of the project and instructions for setup and execution.
